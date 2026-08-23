@@ -231,6 +231,7 @@ The project can be extended further by:
 - Extending the design toward more complex VLSI digital circuits.
 - Studying the effect of transistor sizing on CMOS inverter performance.
 
-## Author
+## Author 
+**Misbah Nabiwale**
 
 **Misbah Nabiwale**
