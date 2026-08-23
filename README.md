@@ -53,3 +53,14 @@ The simulation verifies that the output is always the complement of the input:
 
 - Input A = 0 → Output Y = 1
 - Input A = 1 → Output Y = 0
+## Tools Used
+
+- Verilog HDL
+- Digital Logic Design
+- CMOS Inverter Concepts
+- Verilog Simulation
+- GitHub
+
+## Conclusion
+
+The CMOS inverter was successfully designed and simulated using Verilog HDL. The simulation results verify the inverter operation, where the output is always the complement of the input signal.
